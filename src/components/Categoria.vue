@@ -198,6 +198,7 @@ export default {
       this.nombre="";
       this.descripcion="";
       this.editedIndex=-1;
+      this.validaMensaje=[];
 
     },
     guardar(){
